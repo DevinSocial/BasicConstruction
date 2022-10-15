@@ -51,25 +51,6 @@ After finishing all the customization, you can create a production build by runn
 npm run build
 ```
 
-Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
-
-
-
-
-
-<!-- licence -->
-## License
-
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
-
-**Code License:** Released under the [MIT](https://github.com/themefisher/constra/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
-
-<!-- resources -->
-## Resources
-
-Some third-party plugins that we used to build this template. Please check their licenses.
 
 * **Bootstrap v4.5**: <https://getbootstrap.com/docs/4.5/getting-started/introduction/>
 * **Jquery v3.5.1**: <https://jquery.com/download/>
